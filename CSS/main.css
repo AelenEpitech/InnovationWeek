@@ -147,6 +147,8 @@
 .border-2-black { border: 2px solid black; }
 .border-3-black { border: 3px solid black; }
 
+.borderb-3-black { border-bottom: 10px solid black; }
+
 /*Border*/
 
 /*Div and size*/
@@ -158,23 +160,25 @@
 
 .max-width-100 { max-width: 100%; }
 .max-height-100 { max-height: 100%; }
-.min-width-100 { mix-width: 100%; }
+.min-width-100 { min-width: 100%; }
 .min-height-100 { min-height: 100%; }
 
 .max-width-75 { max-width: 75%; }
 .max-height-75 { max-height: 75%; }
-.min-width-75 { mix-width: 75%; }
+.min-width-75 { min-width: 75%; }
 .min-height-75 { min-height: 75%; }
 
 .max-width-50 { max-width: 50%; }
 .max-height-50 { max-height: 50%; }
-.min-width-50 { mix-width: 50%; }
+.min-width-50 { min-width: 50%; }
 .min-height-50 { min-height: 50%; }
 
 .max-width-25 { max-width: 25%; }
 .max-height-25 { max-height: 25%; }
-.min-width-25 { mix-width: 25%; }
+.min-width-25 { min-width: 25%; }
 .min-height-25 { min-height: 25%; }
+
+.min-height-30px { min-height: 20px; }
 
 /*Div and size*/
 
