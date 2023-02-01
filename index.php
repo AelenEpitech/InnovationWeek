@@ -31,7 +31,7 @@
             <h5 class="fw-100 margin-top-10 text-align-left margin-left-10">
               Année : 2008 <br>
               Objectif : 18-55 mm Monture : EF - EF-S <br>
-              ISO : 100-1600. V/Obscuration : 1/4000 Écran : 3'' xxx xxx <br>
+              ISO : 100-1600. V/Obscuration : 1/4000<br>Écran : 3'' xxx xxx <br>
               Wifi : Non <br>
               Bluetooth : Non Qualité : 12 Mpx <br>
               NFC : Non <br>
